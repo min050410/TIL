@@ -14,3 +14,4 @@ export FLASK_ENV=development
 우분투 환경에서는 set 이 export 이다. 참고!!
 "flask run을 쓸수 있고 애플리케이션 환경에서 개발 가능하다."
 
+flask run --host=0.0.0.0 --port=8000
