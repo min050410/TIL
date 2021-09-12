@@ -15,3 +15,11 @@ export FLASK_ENV=development
 "flask run을 쓸수 있고 애플리케이션 환경에서 개발 가능하다."
 
 flask run --host=0.0.0.0 --port=8000
+
+#4
+
+migrate시 항상 따라오던 오류... 
+역시 믿고보는 stackoverflow
+flask db stamp head
+flask db migrate
+flask db upgrade
