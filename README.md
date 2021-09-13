@@ -23,4 +23,17 @@ flask db stamp head 현재 리비전을 최종 리비전으로 변경하는 명�
 flask db migrate  
 flask db upgrade  
   
-flask db upgrade를 꼭 해야만 db.session.commit()이 가능해진다 
+flask db upgrade를 꼭 해야만 db.session.commit()이 가능해진다  
+  
+  
+#5
+1시간  
+def detail(post_id): #매개변수에는 <int:post_id>가 들어감  
+	post = Post.query.get_or_404(post_id)  
+	return render_template('post_detail.html', post=post)  
+  
+보면 detail의 매개 변수에는 post_id이다.  
+templetes 에서 블루프린트 detail을 참조할 때,  
+post_id=post.id로 들어가야 한다 (왼쪽이 매개변수 오른쪽이 db)  
+
+  
