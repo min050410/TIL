@@ -27,7 +27,7 @@ flask db upgrade를 꼭 해야만 db.session.commit()이 가능해진다
   
   
 #5
-1시간  
+
 def detail(post_id): #매개변수에는 <int:post_id>가 들어감  
 	post = Post.query.get_or_404(post_id)  
 	return render_template('post_detail.html', post=post)  
@@ -35,5 +35,7 @@ def detail(post_id): #매개변수에는 <int:post_id>가 들어감
 보면 detail의 매개 변수에는 post_id이다.  
 templetes 에서 블루프린트 detail을 참조할 때,  
 post_id=post.id로 들어가야 한다 (왼쪽이 매개변수 오른쪽이 db)  
+아, 또 블루프린트를 참조할 때 * 꿀팁 *  
+-> url_for('main.detail') main은 blueprint 이름, detail은 blueprint 함수 이름
 
   
