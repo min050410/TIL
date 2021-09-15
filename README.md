@@ -38,4 +38,8 @@ post_id=post.id로 들어가야 한다 (왼쪽이 매개변수 오른쪽이 db)
 아, 또 블루프린트를 참조할 때 * 꿀팁 *  
 -> url_for('main.detail') main은 blueprint 이름, detail은 blueprint 함수 이름
 
-  
+#6  
+플라스크 폼 모듈을 사용할 때  
+Secret_key 무조건 필요    
+config.py 에 정의 해야 한다.  
+_+폼 모듈 너무 좋아요_
