@@ -51,6 +51,6 @@ gunicorn 을 사용할 때 모듈 네임드 에러가 계속 발생했었다.
 flask run 사용시 잘 되었지만  
 gunicorn을 사용할 때만 모듈 상대 참조 오류가 계속 일어났다.    
 gunicorn --bind 0:8080 "zelda:create_app()"  
-__init__:create_app() 이 아닌 그 상위 디렉토리인 zelda로 설정해 줘야  
+\_\_init\_\_ :create_app() 이 아닌 그 상위 디렉토리인 zelda로 설정해 줘야  
 정상적인 참조가 가능하다.  
 
