@@ -1,4 +1,4 @@
-from zelda import db
+from zelda import db #수정
 
 
 class Post(db.Model):
