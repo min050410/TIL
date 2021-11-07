@@ -6,5 +6,11 @@ react-native today I learned
 &nbsp;&nbsp;&nbsp;&nbsp;  |-TodoInsert.js  
 &nbsp;&nbsp;&nbsp;&nbsp;  |-TodoList.js  
 &nbsp;&nbsp;&nbsp;&nbsp;  |-TodoListItem.js  
-(like this)
+(like this)  
+  
+#2. 훅 문법은 const App = () => {  
+안에 넣는다   
+ex) const [todos, setTodos] = useState([]);  
+  
+내일은 indent 배워봄
 
