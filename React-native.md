@@ -12,5 +12,8 @@ react-native today I learned
 안에 넣는다   
 ex) const [todos, setTodos] = useState([]);  
   
-내일은 indent 배워봄
+#3. 모듈이 동작하지 않을때  
+$ npm install <module-name> --save  
+  
+출처: https://xtring-dev.tistory.com/11 [xtring.dev]  
 
