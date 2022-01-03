@@ -71,3 +71,5 @@ sns.heatmap(df.corr(), annot=True)
 plt.show()
 ```
 ![image](https://user-images.githubusercontent.com/45661217/147901565-3bee25b8-5f56-4730-b90b-d9b6f2d90586.png)
+
+> 숫자는 상관관계 수치이다
