@@ -20,12 +20,14 @@ import seaborn as sns
 + 수치형 + 수치형 : scatter
 + 범주형 + 범주형 : heatmap
 
-### count plot
+### countplot
 + 각 **범주형 값**별로 데이터가 얼마나 있는지 표시
 ```python
 sns.countplot(x='증감', data=df)
 plt.show()
 ```
+![image](https://user-images.githubusercontent.com/45661217/147901631-70ef4061-1a36-4e3e-9c58-47e1554f7cf2.png)
+
 
 ### barplot
 + **카테고리 값에 따른 실수 값**의 평균과 편차를 표시하는 기본적인 바 차트를 생성
@@ -36,6 +38,9 @@ sns.barplot(y='출생아수', data=df)
 plt.show()
 ```
 
+![image](https://user-images.githubusercontent.com/45661217/147901503-c6a3b615-ce63-43c1-8944-63a6f9045bd9.png)
+
+
 ### scatter plot
 + 두 개의 수치값에 대한 관계를 파악
 
@@ -44,13 +49,19 @@ sns.scatterplot(x='출생아수', y='혼인건수', hue='년도', data=df)
 plt.show()
 ```
 
+![image](https://user-images.githubusercontent.com/45661217/147901516-80246b8d-7f8c-4018-8511-2c8faa922ab4.png)
+
+
 ### pairplot 
-+ 데이터프레임을 인수로 받아 그리드(grid) 형태로 각 데이터 열의 조합에 대해 scatter plot
++ 데이터프레임을 인수로 받아 그리드(grid) 형태로 각 데이터 열의 조합에 대해 `scatter plot`
 
 ```python
 sns.pairplot(data=df)
 plt.show()
 ```
+
+![image](https://user-images.githubusercontent.com/45661217/147901544-d4780ec3-f21f-4537-925a-91cb7cfe526f.png)
+
 
 ### heatmap
 + 데이터가 2차원이고 모든 값이 카테고리 값
@@ -59,3 +70,4 @@ plt.show()
 sns.heatmap(df.corr(), annot=True)
 plt.show()
 ```
+![image](https://user-images.githubusercontent.com/45661217/147901565-3bee25b8-5f56-4730-b90b-d9b6f2d90586.png)
