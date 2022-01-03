@@ -3,9 +3,6 @@
 > TypeScript I learned   
 ~~사실 이게 아니라 today다~~  
 
-### 이 블로그는 타입스크립트로 작성되었다
-- <a href="https://github.com/min050410/TechBlog">dev-log 코드 보기</a>
-
 ### 목차
 - 왜 `typescript`를 쓰는가
 - `typescript`의 단점
