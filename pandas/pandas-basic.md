@@ -24,12 +24,12 @@ df = pd.read_csv(‘파일명‘, engine='python', encoding='cp949' )
 ```
 
 ### DataFrame 살펴보기
-- `df`의 정보 : df.info()
+- `DataFrame`의 정보 : df.info()
     - 데이터프레임의 전반적인 정보
-- `df`의 크기 확인 : df.shape 속성
+- `DataFrame`의 크기 확인 : df.shape 속성
     -(행 열) 크기를 확인하기
-- `df`의 원소의 총 개수 : df.size 속성
-- `df`의 개수 확인 : df.count()
+- `DataFrame`의 원소의 총 개수 : df.size 속성
+- `DataFrame`의 개수 확인 : df.count()
 
 ### DataFrame 기본 조회
 ```python
@@ -78,7 +78,7 @@ df.loc[1971:1972, '출생아수':'사망자수']
 # 위치 값으로 가져옴
 df.iloc[1:3, 0:2]
 ```
-
+> 동시에 가져오는 법 
 ```python
 df2 = df.loc[[2015, 2020], ['출생아수', '혼인건수']]
 
@@ -98,10 +98,10 @@ df2 = df.loc[[2015, 2020], ['출생아수', '혼인건수']]
 df.sort_index(ascending=False)
 ```
 
-## 데이터프레임 새로운 열 생성
+### 데이터프레임 새로운 열 생성
 - df['새로운열명'] = 시리즈데이터
 
-## 외부 파일로 저장
+### 외부 파일로 저장
 - csv 쓰기
 ```
 df.to_csv(‘파일명‘, index=False)
