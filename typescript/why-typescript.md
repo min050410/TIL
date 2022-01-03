@@ -1,5 +1,5 @@
 # 타입스크립트를 많이 쓰는 이유
-**react** **ts**
+
 > TypeScript I learned   
 ~~사실 이게 아니라 today다~~  
 
