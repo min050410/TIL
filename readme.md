@@ -28,6 +28,11 @@
     - <a href="https://github.com/min050410/TIL/blob/main/react-native/node_modules-error.md">node_modules가 동작하지 않을때</a>
     - <a href="https://github.com/min050410/TIL/blob/main/react-native/react-native-camera.md">react-native 카메라 적용 방법</a>
     - <a href="https://github.com/min050410/TIL/blob/main/react-native/xml-parsing-in-react.md">react native로 쉽게 API xml 파싱하는법</a>
+- Gatsby
+    - <a href="https://github.com/min050410/TIL/blob/main/Gatsby-js/gatsby-info.md">Gatsby란?</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Gatsby-js/gatsby-plugin-sass.md">Sass 간략한 장점과 gatsby 적용방법</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Gatsby-js/my-blog-process.md">블로그 제작기 - Devlog</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Gatsby-js/prism-react-renderer.md">Syntax highlighting 적용하기</a>
 - Typescript
     - <a href="https://github.com/min050410/TIL/blob/main/typescript/what-is-typescript.md">타입스크립트란</a>
     - <a href="https://github.com/min050410/TIL/blob/main/typescript/why-typescript.md">타입스크립트를 많이 쓰는 이유</a>
@@ -36,6 +41,14 @@
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/Fix-the-CORS-Error.md">cors를 해결하는 방법들</a>
 - http
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/what-is-the-difference-get-and-post.md">GET과 POST의 차이</a>
+
+### Parsing
+- python
+    - <a href="https://github.com/min050410/TIL/blob/main/Parse/urllib-request.md">urllib request로 api 파싱하기</a>
+### Databases
+- SQL
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/what-is-sql.md">SQL이란 무엇인가?</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-command.md">SQL 명령어 종류</a>
 
 ## 📖코드 보기
 ### flask 코드 보기 
