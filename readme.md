@@ -49,6 +49,8 @@
 - SQL
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/what-is-sql.md">SQL이란 무엇인가?</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-command.md">SQL 명령어 종류</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function.md">SQL function 분류 방법, 단일행 함수 살펴보기</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/select-order-by.md">order by 를 이용해 정렬하여 데이터를 출력하는 방법</a>
 
 ## 📖코드 보기
 ### flask 코드 보기 
