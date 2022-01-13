@@ -3,7 +3,7 @@
 단일행 함수를 이어서 살펴보자
 > 지난 함수는 [이곳](https://github.com/min050410/TIL/blob/main/SQL/sql-function.md)
 
-### 📑 지금 현제 날짜, 시간 출력하기
+### 📑 지금 현재 날짜, 시간 출력하기
 
 |SQL 명령|결과|
 |-|-|
