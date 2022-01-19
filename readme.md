@@ -56,6 +56,7 @@
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-join.md">SQL join 정의 및 종류 알아보기</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-subquery.md">SQL subquery</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-merge.md">SQL 테이블 병합하는 방법</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-constraint.md">SQL 제약조건</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-user.md">SQL 계정별 권한 확인, 적용, 부여, 회수 계정 생성</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/w3c-sql-exercise.md">W3C SQL 연습문제 풀어보기</a>
 
