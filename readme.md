@@ -52,6 +52,7 @@
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function.md">SQL function 분류 방법, 단일행 함수 살펴보기</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function-2.md">SQL function(2) - 날짜 함수</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function-3.md">SQL function(3) - 숫자 함수</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function-4.md">SQL function(4) - 복수행함수와 group by</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/select-order-by.md">order by 를 이용해 정렬하여 데이터를 출력하는 방법</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-join.md">SQL join 정의 및 종류 알아보기</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-subquery.md">SQL subquery</a>
@@ -59,6 +60,7 @@
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-constraint.md">SQL 제약조건</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-view.md">SQL view 알아보기</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-user.md">SQL 계정별 권한 확인, 적용, 부여, 회수 계정 생성</a>
+- SQL 연습문제
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/w3c-sql-exercise.md">W3C SQL 연습문제 풀어보기</a>
 
 
