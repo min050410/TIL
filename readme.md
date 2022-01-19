@@ -50,11 +50,12 @@
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/what-is-sql.md">SQL이란 무엇인가?</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-command.md">SQL 명령어 종류</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function.md">SQL function 분류 방법, 단일행 함수 살펴보기</a>
-    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-funtion-2.md">SQL function(2) - 날짜 함수</a>
-    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-funtion-3.md">SQL function(3) - 숫자 함수</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function-2.md">SQL function(2) - 날짜 함수</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-function-3.md">SQL function(3) - 숫자 함수</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/select-order-by.md">order by 를 이용해 정렬하여 데이터를 출력하는 방법</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-join.md">SQL join 정의 및 종류 알아보기</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-subquery.md">SQL subquery</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-merge.md">insert into on duplicate key 문이란?</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/w3c-sql-exercise.md">W3C SQL 연습문제 풀어보기</a>
 
 
