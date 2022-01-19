@@ -55,7 +55,7 @@
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/select-order-by.md">order by 를 이용해 정렬하여 데이터를 출력하는 방법</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-join.md">SQL join 정의 및 종류 알아보기</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-subquery.md">SQL subquery</a>
-    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-merge.md">insert into on duplicate key 문이란?</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/SQL/sql-merge.md">SQL 테이블 병합하는 방법</a>
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/w3c-sql-exercise.md">W3C SQL 연습문제 풀어보기</a>
 
 
