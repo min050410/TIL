@@ -32,5 +32,3 @@ revoke all on db_name.table_name FROM 'user'@'접속위치';
 ```sql
 drop user 'user'@'접속위치';
 ```
-
-끝!

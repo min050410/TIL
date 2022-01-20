@@ -31,7 +31,7 @@ avg() 함수는 입력된 데이터 값의 평균 값을 반환하는 함수이�
 ```sql
 select max(salary), min(salary) from salary;
 ```
-최댓값과 최솟값을 구하는 함수이다. ~~진짜 얘는 c++이 근본인데 읍읍~~
+최댓값과 최솟값을 구하는 함수이다.
 
 ### stddev()
 ```sql
