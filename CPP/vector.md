@@ -90,6 +90,8 @@ v.empty();
 - vector가 비었으면 리턴 true
 
 ### iterator 지정법
+> 반복자(iterator)는 객체 지향적 프로그래밍에서 배열이나 그와 유사한 자료 구조의 내부의 요소를 순회(traversing)하는 객체이다.
+
 ```cpp
 vector<int>::iterator iter;
 // 값을 참조할 때는 *iter로 사용
