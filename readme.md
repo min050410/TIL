@@ -64,6 +64,10 @@
     - <a href="https://github.com/min050410/TIL/blob/main/SQL/w3c-sql-exercise.md">W3C SQL 연습문제 풀어보기</a>
 - cpp
     - <a href="https://github.com/min050410/TIL/blob/main/CPP/lower-bound.md">cpp lower_bound, upper_bound</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/CPP/vector.md">cpp vector</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/CPP/for-each.md">cpp 반복문 / for_each </a>
+    - <a href="https://github.com/min050410/TIL/blob/main/CPP/auto.md">cpp11 auto, auto&, const auto&</a>
+    
 
 
 ## 📖 Framework 코드 보기
