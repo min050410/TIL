@@ -68,6 +68,8 @@
     - <a href="https://github.com/min050410/TIL/blob/main/CPP/for-each.md">cpp 반복문 / for_each </a>
     - <a href="https://github.com/min050410/TIL/blob/main/CPP/auto.md">cpp11 auto, auto&, const auto&</a>
     - <a href="https://github.com/min050410/TIL/blob/main/CPP/try-catch-throw.md">cpp 예외처리 매커니즘 - try, catch, throw</a>
+- algorithm
+    - <a href="https://github.com/min050410/TIL/blob/main/algorithm/heapsort.md">힙 정렬</a>
     
 
 
