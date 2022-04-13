@@ -69,11 +69,13 @@
     - <a href="https://github.com/min050410/TIL/blob/main/CPP/auto.md">cpp11 auto, auto&, const auto&</a>
     - <a href="https://github.com/min050410/TIL/blob/main/CPP/try-catch-throw.md">cpp 예외처리 매커니즘 - try, catch, throw</a>
 - algorithm
-    - <a href="https://github.com/min050410/TIL/blob/main/algorithm/heapsort.md">힙 정렬</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Algorithm/heapsort.md">힙 정렬</a>
+- Nest.js
+    - <a href="https://github.com/min050410/TIL/blob/main/Nestjs/Controller.md">컨트롤러</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Nestjs/decorator.md">js 데코레이션 vs python 데코레이션</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Nestjs/migration.md">typeORM 에서의 마이그레이션</a>
     
-
-
-## 📖 Framework 코드 보기
+## 📖 Framework 사용 코드 보기
 ### flask 코드 보기 
 - <a href="https://github.com/min050410/zolzima_Backend">zolzima</a>
 ### react-native 코드 보기
