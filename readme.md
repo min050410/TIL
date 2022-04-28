@@ -36,6 +36,7 @@
 - Typescript
     - <a href="https://github.com/min050410/TIL/blob/main/typescript/what-is-typescript.md">타입스크립트란</a>
     - <a href="https://github.com/min050410/TIL/blob/main/typescript/why-typescript.md">타입스크립트를 많이 쓰는 이유</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/typescript/generics.md">제네릭 (Generics)</a>
 ### Backend
 - Cors 
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/Fix-the-CORS-Error.md">cors를 해결하는 방법들</a>
