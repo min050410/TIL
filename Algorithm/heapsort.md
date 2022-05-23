@@ -45,7 +45,7 @@ void heap_sort(element a[], int n){
 거의 완전 이진트리여서 삽입 or 삭제시 `log2n`
 
 요소의 개수가 n 개이므로 최종적으로
-`O(nlog2n)`의 시간이 걸림 
+`O(nlog2n)`의 시간이 걸린다
 
 ![](https://gmlwjd9405.github.io/images/algorithm-heap-sort/sort-time-complexity.png)
 

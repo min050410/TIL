@@ -42,6 +42,8 @@
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/Fix-the-CORS-Error.md">cors를 해결하는 방법들</a>
 - http
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/what-is-the-difference-get-and-post.md">GET과 POST의 차이</a>
+- socket
+    - <a href="https://github.com/min050410/TIL/blob/main/Backend/socket/socket-emit.md.md">Socket.io - io.emit(io.sockets.emit)과 socket.broadcast.emit의 차이</a>
 
 ### Parsing
 - python
