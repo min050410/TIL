@@ -38,12 +38,17 @@
     - <a href="https://github.com/min050410/TIL/blob/main/typescript/why-typescript.md">타입스크립트를 많이 쓰는 이유</a>
     - <a href="https://github.com/min050410/TIL/blob/main/typescript/generics.md">제네릭 (Generics)</a>
 ### Backend
+- Interview
+    - <a href="https://github.com/min050410/TIL/blob/main/Backend/ioc.md">IoC란</a>
+    - <a href="https://github.com/min050410/TIL/blob/main/Backend/mvc.md">MVC 패턴</a>
 - Cors 
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/Fix-the-CORS-Error.md">cors를 해결하는 방법들</a>
 - http
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/what-is-the-difference-get-and-post.md">GET과 POST의 차이</a>
 - socket
     - <a href="https://github.com/min050410/TIL/blob/main/Backend/socket/socket-emit.md.md">Socket.io - io.emit(io.sockets.emit)과 socket.broadcast.emit의 차이</a>
+- aws
+    - <a href="https://github.com/min050410/TIL/blob/main/Backend/AWS/aws-lightsail-bug.md">aws lightsail 포트 접속이 안될 때</a>
 
 ### Parsing
 - python
